@@ -5,6 +5,5 @@ Assignments<br>
 - Shell_Reverse_TCP
 - Egghunter
 - Encoder
-- Analysis of Msfpayloads
 - Polymorphic shellcodes
 - Crypter
