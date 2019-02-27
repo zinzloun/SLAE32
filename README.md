@@ -5,6 +5,7 @@ Assignments<br>
 - 2 Shell_Reverse_TCP
 - 3 Egghunter
 - 4 Encoder
+- 5 [intentionally missing]
 - 6 Polymorphic shellcodes
 - 7 Crypter
 - Bonus: execve
